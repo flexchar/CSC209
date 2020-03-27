@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Chemistry Questionnaire | My Progress</title>
+        <link rel="stylesheet" href="app.scss" />
+    </head>
+    <body>
+        <nav class="navbar">
+            <ul
+                class="flex md:flex-col p-0 m-0 list-none items-center justify-evenly h-full"
+            >
+                <li class="nav-item">
+                    <a
+                        href="/"
+                        class="nav-link"
+                        data-target="article"
+                        title="Show article"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            width="24"
+                            height="24"
+                        >
+                            <path
+                                d="M13 20v-5h-2v5a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-7.59l-.3.3a1 1 0 1 1-1.4-1.42l9-9a1 1 0 0 1 1.4 0l9 9a1 1 0 0 1-1.4 1.42l-.3-.3V20a2 2 0 0 1-2 2h-3a2 2 0 0 1-2-2zm5 0v-9.59l-6-6-6 6V20h3v-5c0-1.1.9-2 2-2h2a2 2 0 0 1 2 2v5h3z"
+                            />
+                        </svg>
+                        <span class="nav-text">Home</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a
+                        href="#"
+                        class="nav-link"
+                        data-target="quiz"
+                        title="Start quiz"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            width="24"
+                            height="24"
+                        >
+                            <path
+                                d="M12 22a10 10 0 1 1 0-20 10 10 0 0 1 0 20zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM10.59 8.59a1 1 0 1 1-1.42-1.42 4 4 0 1 1 5.66 5.66l-2.12 2.12a1 1 0 1 1-1.42-1.42l2.12-2.12A2 2 0 0 0 10.6 8.6zM12 18a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"
+                            />
+                        </svg>
+                        <span class="nav-text">Quiz</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a
+                        href="#"
+                        class="nav-link"
+                        data-target="questions"
+                        title="Show all questions"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            width="24"
+                            height="24"
+                        >
+                            <path
+                                d="M5 3h4a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2zm0 2v4h4V5H5zm10-2h4a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2zm0 2v4h4V5h-4zM5 13h4a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4c0-1.1.9-2 2-2zm0 2v4h4v-4H5zm10-2h4a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-4c0-1.1.9-2 2-2zm0 2v4h4v-4h-4z"
+                            />
+                        </svg>
+                        <span class="nav-text">Questions</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a
+                        href="/xml/index.xml"
+                        class="nav-link"
+                        title="Don't cheat ;)"
+                        target="_blank"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            width="24"
+                            height="24"
+                        >
+                            <path
+                                d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2zm14 8V5H5v6h14zm0 2H5v6h14v-6zM8 9a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm0 8a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"
+                            />
+                        </svg>
+                        <span class="nav-text">Reference</span>
+                    </a>
+                </li>
+
+                <li class="mt-auto nav-item">
+                    <a
+                        href="#"
+                        class="nav-link"
+                        data-target="profile"
+                        title="Show user form"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            width="24"
+                            height="24"
+                        >
+                            <path
+                                d="M12 12a5 5 0 1 1 0-10 5 5 0 0 1 0 10zm0-2a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm9 11a1 1 0 0 1-2 0v-2a3 3 0 0 0-3-3H8a3 3 0 0 0-3 3v2a1 1 0 0 1-2 0v-2a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v2z"
+                            />
+                        </svg>
+                        <span class="nav-text">My Profile</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <main class="md:ml-20 p-4" data-container>
+            <div class="pb-4 flex items-baseline">
+                <h1 class="text-xl font-heavy mr-2" data-rename-title>
+                    Chemistry Questionnaire
+                </h1>
+                <button class="text-xs" data-rename>Rename?</button>
+            </div>
+
+            <article
+                id="article"
+                class="bg-white p-4 shadow"
+                style="display: none;"
+            >
+                <header class="pb-4">
+                    <h2 class="text-xl">
+                        Wikipedia is
+                        <strong>speaking</strong>
+                        again
+                    </h2>
+                    <small>Extracted in 2020</small>
+                </header>
+                <section class="flex flex-row">
+                    <div class="w-full text-justify pr-4">
+                        <p class="pb-4">
+                            Chemistry is the scientific discipline involved with
+                            elements and compounds composed of
+                            <em>atoms, molecules and ions</em>
+                            - their composition, structure, properties, behavior
+                            and the changes they undergo during a reaction with
+                            other substances.
+                        </p>
+                        <p class="pb-4">
+                            In the scope of its subject, chemistry occupies an
+                            intermediate position between physics and biology.
+                            It is sometimes called the central science because
+                            it provides a foundation for understanding both
+                            basic and applied scientific disciplines at a
+                            fundamental level. For example, chemistry explains
+                            aspects of plant chemistry (botany), the formation
+                            of igneous rocks (geology), how atmospheric ozone is
+                            formed and how environmental pollutants are degraded
+                            (ecology), the properties of the soil on the moon
+                            (astrophysics), how medications work (pharmacology),
+                            and how to collect DNA evidence at a crime scene
+                            (forensics).
+                        </p>
+
+                        <dl class="">
+                            <dt>Oxygen</dt>
+                            <dd>16 MN</dd>
+                            <dt>Ferum</dt>
+                            <dd>56 MN</dd>
+                            <dt>Hydrogen</dt>
+                            <dd>1 MN</dd>
+                        </dl>
+                        <p class="italic text-sm pb-4">
+                            The content is formatted by infamours dl/dt/dd
+                        </p>
+
+                        <div class="pb-4 h-20">
+                            <span class="circle-h"></span>
+                        </div>
+                    </div>
+
+                    <div class="w-auto">
+                        <span class="circle-v"></span>
+                    </div>
+                </section>
+                <footer class="flex justify-end">
+                    <button
+                        data-js-alert="Thank You, Wiki"
+                        class="py-2 px-4 bg-transparent border-black border rounded"
+                    >
+                        Say thanks
+                    </button>
+                </footer>
+            </article>
+
+            <section
+                id="profile"
+                class="bg-white p-4 shadow"
+                style="display: none;"
+            >
+                <form class="flex flex-col" data-profile-form>
+                    <label class="pb-4">
+                        <span>Name</span>
+                        <input
+                            class="border border-black flex w-full rounded p-2"
+                            type="text"
+                            name="name"
+                            pattern="[A-Za-z]{3,9}"
+                            required
+                            autofocus
+                        />
+                    </label>
+
+                    <label class="pb-4">
+                        <span>About</span>
+                        <textarea
+                            class="border border-black flex w-full rounded p-2"
+                            name="about"
+                            cols="30"
+                            rows="3"
+                            placeholder="You may reveal your poetry skills here"
+                        ></textarea>
+                    </label>
+
+                    <label class="pb-4">
+                        <span>Age</span>
+                        <input
+                            class="border border-black flex w-full rounded p-2"
+                            type="number"
+                            name="number"
+                            min="10"
+                            max="99"
+                            placeholder="Yes, we know that you're 18 in your heart!"
+                        />
+                    </label>
+
+                    <label class="pb-4">
+                        <span>Email</span>
+                        <input
+                            class="border border-black flex w-full rounded p-2"
+                            type="email"
+                            name="email"
+                            placeholder="We promise - no spam."
+                        />
+                    </label>
+
+                    <label class="pb-4">
+                        <span>Password</span>
+                        <input
+                            class="border border-black flex w-full rounded p-2"
+                            type="password"
+                            name="password"
+                            placeholder="I love security keys, do you?"
+                        />
+                    </label>
+
+                    <label class="pb-4 select-none">
+                        <input
+                            class="border border-black rounded p-2"
+                            type="checkbox"
+                            name="checkbox"
+                        />
+                        Wanna check me out?
+                    </label>
+
+                    <div class="pb-4 select-none flex flex-col">
+                        <span>What would you choose?</span>
+                        <label>
+                            <input
+                                class="border border-black "
+                                type="radio"
+                                name="radio"
+                                value="smart"
+                            />
+                            Smart but ugly
+                        </label>
+                        <label>
+                            <input
+                                class="border border-black "
+                                type="radio"
+                                name="radio"
+                                value="pretty"
+                            />
+                            Pretty but stupid
+                        </label>
+                    </div>
+
+                    <label class="pb-4">
+                        Dare you to try?
+                        <select
+                            name="select"
+                            class="border border-black rounded p-2 w-full"
+                        >
+                            <optgroup label="Cyprus">
+                                <option value="1">Souvlaki</option>
+                                <option value="2">Ravioli</option>
+                                <option value="3">Halloumi</option>
+                            </optgroup>
+                            <optgroup label="Delivery">
+                                <option value="4">Crepe Land</option>
+                                <option value="5">KFC</option>
+                                <option value="6">McDonalds</option>
+                            </optgroup>
+                        </select>
+                    </label>
+
+                    <div class="flex justify-end">
+                        <button
+                            class="px-4 py-2 bg-green-600 hover:bg-green-700 rounded text-white"
+                        >
+                            Save
+                        </button>
+                    </div>
+                </form>
+            </section>
+
+            <section
+                id="quiz"
+                class="bg-white p-4 shadow"
+                style="display: none;"
+            >
+                <p>Question is:</p>
+                <h2 class="text-xl pb-2" data-quiz-question>...</h2>
+
+                <label class="block pb-4">
+                    Answer
+                    <input
+                        type="text"
+                        name="answer"
+                        data-quiz-answer
+                        placeholder="Type here..."
+                        class="is-active w-full border border-black rounded p-2"
+                    />
+                </label>
+
+                <div class="flex justify-end">
+                    <button
+                        class="is-active px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded focus:bg-purple-700 focus:outline-none"
+                        type="button"
+                        data-quiz-submit
+                    >
+                        Submit
+                    </button>
+                </div>
+
+                <div></div>
+            </section>
+
+            <section
+                id="questions"
+                class="bg-white p-4 shadow"
+                style="display: none;"
+            >
+                <table class="table-auto">
+                    <thead>
+                        <tr>
+                            <th class="w-1/6">Category</th>
+                            <th class="">Question</th>
+                            <th class="text-center">Points</th>
+                        </tr>
+                    </thead>
+                    <tbody data-questions>
+                        <tr>
+                            <td class="text-center" rowspan="4">Loading</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+        </main>
+
+        <script
+            defer
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+        ></script>
+        <script defer src="app.ts"></script>
+    </body>
+</html>

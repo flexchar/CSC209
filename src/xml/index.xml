@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./template.xsl" type="text/xsl" ?>
+<collection>
+    <question>
+        <title>Elementai 1</title>
+        <question>Cheminis elementas, turintis didžiausią tankį (vieninėje medžiagoje) ir pasižymintis kietumu?</question>
+        <answer>Osmis</answer>
+        <points>5</points>
+    </question>
+    <question>
+        <title>Elementai 2</title>
+        <question>Didžiausia lydymosi temperatūrą turintis elementas?</question>
+        <answer>Volframas</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Junginiai 1</title>
+        <question>Junginys, kuris savo kietumu beveik prilygsta deimantui ir net yra už jį termiškai atsparesnis. Parašykite cheminę formulę:</question>
+        <answer>BN</answer>
+        <points>7</points>
+    </question>
+    <question>
+        <title>Junginiai 2</title>
+        <question>Rb ir Cs būdingi junginiai su deguonimi, kur jų oksidacijos laipsnis gerokai mažesnis nei +1, pavyzdžiui Rb6O. Kaip vadinami šie junginiai?</question>
+        <answer>Suboksidai</answer>
+        <points>7</points>
+    </question>
+    <question>
+        <title>Junginiai 3</title>
+        <question>Kokia geležies (III) hidroksido nuosėdų spalva? (Fe(OH)3)</question>
+        <answer>Ruda</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Junginiai 4</title>
+        <question>Nurodykite itin sprogaus junginio Bertoleto druskos formulę:</question>
+        <answer>KClO3</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Junginiai 5</title>
+        <question>Kokia Fe3[Fe(CN)6]2 spalva?</question>
+        <answer>Mėlyna</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 1</title>
+        <question>I A grupės metalai reaguodami su deguoniu (praktiškai degdami) sudaro junginius (dgs. G. l.): (įvardinke kokius junginius jie sudaro su deguonimi)</question>
+        <answer>Peroksidus</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Savybės 2</title>
+        <question>Bet kuriam metalui reaguojant su koncentruota HNO3 niekada neišskirs tam tikros dujos, kas įprasta reaguojant aktyviesiems metalams su kitomis rūgštimis (įvardinkite formulę)</question>
+        <answer>H2</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Elementai 3</title>
+        <question>Elementas neturintis valentinių s elektronų?</question>
+        <answer>Paladis</answer>
+        <points>4</points>
+    </question>
+    <question>
+        <title>Junginiai 6</title>
+        <question>Vienintelė cheminė formulė, kurią skaitant tiek iš priekio tiek iš kitos pusės reikšmė tos formulės nesikeičia. Pvz.: jei būtų CaCl, tai iš kitos pusės tai atrodytų kaip LcAc, bet jos reikšmė keičiasi. Parašykite cheminę formulę.</question>
+        <answer>RbBr</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Uždaviniai 1</title>
+        <question>Kokiu tūrių santykių reikia sumaišyti smalkes su oru, kad smalkės sudegtų iki galutinio degimo produkto? (išreiškite sveikaisiais skaičiais atskiradami juos dvitaškiu, be tarpų)</question>
+        <answer>2:5</answer>
+        <points>7</points>
+    </question>
+    <question>
+        <title>Junginiai 7</title>
+        <question>Kalio bichromato spalva?</question>
+        <answer>Oranžinė</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Bandymai 1</title>
+        <question>Trivialus bandymo pavadinimas, kurio metu dega kalio bichromatas ?</question>
+        <answer>Vulkanas</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Bandymai 2</title>
+        <question>Kuo atpažįstame glicerolį?</question>
+        <answer>Cu(OH)2</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 3</title>
+        <question>Kas išgaunama pramonėje metano konversijos vandens garais reakcijos metu? (formulė) (ne visi produktai, bet tik tai, kas siekiama išgauti pramonėje)</question>
+        <answer>H2</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 4</title>
+        <question>Kuri iš vandenilio halogenidų rūgščių pasižymi stipriausiomis rūgštinėmis savybėmis? (formulė)</question>
+        <answer>HI</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Elementai 4</title>
+        <question>Sieros, degančios deguonies pertekliuje (gryname deguonyje), liepsnos spalva?</question>
+        <answer>Mėlyna</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Uždaviniai 2</title>
+        <question>Turime 0,78496 mol CO2, kiek mažiausiai molių reikės NaOH, kad neutralizuoti gautą CO2 (vandeninė terpė).</question>
+        <answer>0,78496</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 5</title>
+        <question>Kalcio karbido ir vandens reakcijos metu vienas susidariusių produktų: (pavadinimas)</question>
+        <answer>Etinas</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Savybės 6</title>
+        <question>Aliuminio karbidą veikiant vandeniu gauname vieną iš produktų: (pavadinimas)</question>
+        <answer>Metanas</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Uždaviniai 3</title>
+        <question>Nustatyta, kad polietileno molekulinė masė 2800 g/mol, koks polietileno polimerizacijos laipsnis?</question>
+        <answer>100</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Savybės 7</title>
+        <question>Fosgenui hidrolizuojantis gaunama rūgštis: (formulė)</question>
+        <answer>HCl</answer>
+        <points>5</points>
+    </question>
+    <question>
+        <title>Bandymai 3</title>
+        <question>Dviejų metalų jonai liepsną nudažo raudonai (du skirtingi raudonos spalvos atspalviai). Parašykite tų metalų cheminius simbolius (kaip lentelėje), nenurodykite krūvių, juos atskirkite tik kableliu, rašykite pirma mažesnio eilės numerio metalą (be jokių tarpų).</question>
+        <answer>Li,Sr</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Junginiai 8</title>
+        <question>Sieros junginys. Būdingas aštrus kvapas, junginys laikomas atmosferos teršalu, taip pat būdingos redukcinės savybės.</question>
+        <answer>SO2</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Pokštai 1</title>
+        <question>Kas bendro tarp koncetruotos H2SO4 ir jos molekulinės masės?</question>
+        <answer>98</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Savybės 8</title>
+        <question>...........-&gt;3S+2H2O Vietoje daugtaškių parašykite, kas turėtų vykti pirmoje lygties pusėje. Būtinai nurodykite visus koeficientus. Nenaudokite tarpų. Na pvz. atsakymas galėtų atrodyti štai taip: H2SO4+4SO3+3H2O2</question>
+        <answer>SO2+2H2S</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Junginiai 9</title>
+        <question>Kaip dažnai vadinami šitokie reagentai: HF + BF3; FSO3H + SbF5 ?</question>
+        <answer>Superrūgštys</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Junginiai 10</title>
+        <question>Kip vadinami šitie reagentai: AlCl3; AlBr3; BF3? (2 žodžiai)</question>
+        <answer>Liuiso rūgštys</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 9</title>
+        <question>Ozonolizės reakcijos metu 2-buteną paveikę PCC gaunasi: (pavadinimas vardininko linksnyje)</question>
+        <answer>Etanalis</answer>
+        <points>5</points>
+    </question>
+    <question>
+        <title>Savybės 10</title>
+        <question>Eteno dvigubos jungites oksidavimo reakcijoje iki etandiolio kalio permanganatą galime pakeisti (žinoma teks ir terpę pakeisti): (formulė)</question>
+        <answer>OsO4</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Junginiai 11</title>
+        <question>Cu2O spalva: (2 žodžiai, vienas nurodo atspalvį, kitas - spalvą(pvz.: geltonai žalias))</question>
+        <answer>Raudonai rudas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Junginiai 12</title>
+        <question>Kaip vadinamas penkianaris heterociklas, turintis 2 dvigubas C=C jungtis ir vieną sieros atomą?</question>
+        <answer>Tiofenas</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Junginiai 13</title>
+        <question>Kokia Mn+2 jono spalva?</question>
+        <answer>Bespalvis</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Teorija 1</title>
+        <question>Kaip vadinamas momentas tarp reaguojančių medžiagų, kuomet pirmoji yra visiškai sureagavusi, o antrosios dar nėra pertekliaus? Taikoma titravime. 2 žodžiai. (pirmasis iš didžiosios raidės, antrasis ne, atskirkite tarpu)</question>
+        <answer>Ekvivalentinis taškas</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Savybės 11</title>
+        <question>Kuris I A grupės metalų lėčiausiai reaguoja su vandeniu? (cheminis simbolis)</question>
+        <answer>Li</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Savybės 12</title>
+        <question>Kuris IA-IIA metalų nereaguoja su vandeniu?</question>
+        <answer>Be</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Elementai 5</title>
+        <question>IA-IIA elementas, kuriam būdingos rūgštinės savybės.</question>
+        <answer>Be</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Savybės 13</title>
+        <question>Turime vandenilio ir chloro mišinį, ką reikėtų padaryti su juo, norint gauti sprogimą?</question>
+        <answer>Apšviesti</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Junginiai 14</title>
+        <question>Fluoro dujų spalva:</question>
+        <answer>Gelsva</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Savybės 14</title>
+        <question>Fluorui reaguojant su vandeniu susidaro: (atsakyme parašykite formules, jas atskirkite tik kableliu, be tarpo)</question>
+        <answer>HF,O2</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 15</title>
+        <question>Jodas su vandeniu reaguoja labai nežymiai, kokie junginiai visgi susidaro? (atsakymas be tarpų, junginiai atskirti tik kableliu)</question>
+        <answer>HIO,HI</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 16</title>
+        <question>Kokį halogenido joną halogenų druskose išstumia bromas? (parašykite žodžiu)</question>
+        <answer>Jodido</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Savybės 17</title>
+        <question>Du metalai reaguodami su šalta ir praskieta azoto rūgštimi išstumia vandenilį, parašykite juos. Rašykite tik cheminius simbolius ir įvardykite pirma mažesnio eilės numerio metalą, atskirkite tik kableliu, nenaudodami tarpo.</question>
+        <answer>Mg,Ca</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Savybės 18</title>
+        <question>Koncentruota H2SO4, kaip ir azoto rūgštis, įprastai pasyvina Fe, Al, Cr. Bet karšta ir koncentruota sieros rūgštis vis tik reaguoja su geležimi ir pati redukuojasi iki: (parašykite junginius/junginį formulėmis)</question>
+        <answer>SO2</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Teorija 2</title>
+        <question>"karališkojo vandens" ar "karališkosios degtinės" lotyniškas pavadinimas: (du žodžiai, atskirkite tarpu)</question>
+        <answer>Aqua regia</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Pokštai 2</title>
+        <question>Kokio azoto oksido niekada negausime bet kurios koncentracijos HNO3 reaguojant su bet kokiu metalu?</question>
+        <answer>N2O5</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Junginiai 15</title>
+        <question>Įprastai neorganiniai chloridai yra gana atsparūs kaitrai. Tačiau vienas chloridas kaitinamas jau ir visai neaukštoje temperatūroje skyla, parašykite formulę:</question>
+        <answer>NH4Cl</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Atomas 1</title>
+        <question>Neutronas - krūvio neturinti branduolio dalelė. Laisvas neutronas nestabilus - jo gyvavimo trukmė apie 17 min. Neutronas virsta protonu ir elektronu, be to, dar atsiranda viena neutrali dalelytę: (parašykite pavadinimą iš didžiosios raidės vardininko linksnyje)</question>
+        <answer>Antineutrinas</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Atomas 2</title>
+        <question>Amerikiečių fizikas K. Andersonas 1932 m. surado teigiamą elektroną. Jie išmetami iš atomo branduolio protonui virstant neutronu. Parašykite šios dalelės (teigiamo elektrono) pavadinimą (vns. V.l. iš did. r.)</question>
+        <answer>Pozitronas</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Elementai 6</title>
+        <question>Elementai, turintys tik vieną izotopą, vadinami izotopiškai švariais. Kiek periodinėje cheminių elementų sistemoje yra izotopiškai švarių elementų ? (skaičius)</question>
+        <answer>21</answer>
+        <points>5</points>
+    </question>
+    <question>
+        <title>Junginiai 16 (sudėtingas)</title>
+        <question>Parašykite cheminę formulę medžiagos, kurios pavadinimas: heksaaminokobalto (III) oktacianorenatas (VI) Kompleksinėms sferoms atskirti naudokite laužtinius skliaustus, ligandų grupėms - paprastus skliaustus, indeksai paprastai skaičiais. pvz.: K[Al(OH)4]</question>
+        <answer>[Co(NH3)6]2[Re(CN)8]3</answer>
+        <points>10</points>
+    </question>
+    <question>
+        <title>Junginiai 17</title>
+        <question>Vienos tirpiausių dujų vandenyje (700 turių viename tūryje H2O tirpsta). Formulė.</question>
+        <answer>NH3</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Teorija 3</title>
+        <question>Be orto, meta, para pakaitų žymėjimų yra dar vienas, priklausantis ŠIAI grupei. Įrašykite šį žymėjimą atsakymo laukelyje.</question>
+        <answer>Ipso</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Organinė 1</title>
+        <question>Chemikams bandant dehidratuoti propano dirūgštį gavosi labai egzotiškas junginys. Parašykite jo formulę.</question>
+        <answer>C3O2</answer>
+        <points>4</points>
+    </question>
+    <question>
+        <title>Organinė 2</title>
+        <question>Nors IUPAC ir leidžia vadinti benzeną benzenu, koks turėtų būti jo pavadinimas laikantis IUPAC nomenklatūros taisyklių?</question>
+        <answer>Cikloheksatrienas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 3</title>
+        <question>Apie organinę molekulę žinomi tokie spektrų duomenys: Masės spektras: molekulinis jonas ties 104. IR: tik ties 3000 cm-1. Protono BMR: singlet'as prie 4.0 p.p.m. Anglies BMR: 47.3 p.p.m Parašykite organinės molekulės "trivialųjį" pavadinimą.</question>
+        <answer>Kubanas</answer>
+        <points>6</points>
+    </question>
+    <question>
+        <title>Organinė 4</title>
+        <question>Vienas reagentų dažnai vartojamų rūgštis versti rūgščių chloranhidridais. Formulė.</question>
+        <answer>SOCl2</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Organinė 5</title>
+        <question>Jei junginį RCO2H paveiksime SF4 ir kaitinsime, koks bus vienas reakcijos produktų ? (pagrindinis) Žymėjimą naudokite tokį patį kaip ir klausimo sąlygoje.</question>
+        <answer>RCF3</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Organinė 6</title>
+        <question>Kaip bendrai vadinami junginiai, kurie yra ilgos anglies grandinės alkohlių (turinčių vieną hidrosklio grupę) ir riebiųjų rūgščių esteriai?</question>
+        <answer>Vaškai</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 7</title>
+        <question>Naftaleną oksiduojant oro deguonimi, naudojant katalizatoriumi vanadžio pentoksidą, gaunama rūgštis A, kurios anhidridą paveikus fenoliu ir konc. H2SO4 gaunamas junginys X. Parašykite junginio X pavadinimą.</question>
+        <answer>Fenolftaleinas</answer>
+        <points>4</points>
+    </question>
+    <question>
+        <title>Teorija 4</title>
+        <question>Jei tam tikrame tūryje yra kelių dujų mišinys, tai kiekvienos dujos turi savo slėgį, kuris vadinamas daliniu arba: (Įn. l.)</question>
+        <answer>Parcialiniu</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 7.5</title>
+        <question>Tas pats rūgšties A anhidridas iš uždavinio "Organinė 7" sulydytas su m-hidroksifenoliu, naudojant bevandenį ZnCl2. Gaunamas junginys Y, kuris tirpsta šarmuose, o jo tirpalas yra geltonos spalvos gelsvai žaliai švytintis. Švytėjimą vandenyje galime pastebėti net esant labai mažam šio junginio kiekiui, todėl jis naudojamas įvairioms vandens tėkmėms nustatyti. Parašykite junginio Y pavadinimą.</question>
+        <answer>Fluoresceinas</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Organinė 8</title>
+        <question>[img]http://img93.imageshack.us/img93/9484/noname01qz1.gif[/img] Koks bus šios reakcijos produktas. Parašykite pavadinimą. Apie produktą yra žinoma: formulė C4H6O, protono BMR: 3,02 (4H, d, J 5 Hz) ir 1,00 (2H, kvintetas, J 5Hz).</question>
+        <answer>Ciklobutanonas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 9</title>
+        <question>1,2-benzendiolį veikiant sidabro oksidu gaunamas junginys Z. Parašykite junginio Z pavadinimą, pagal IUPAC nomenklatūrą.</question>
+        <answer>3,5-cikloheksadien-1,2-dionas</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Organinė 9,5</title>
+        <question>Parašykite junginio Z (iš uždavinio "Organinė 9") kitą galimą pavadinimo variantą.</question>
+        <answer>O-benzochinonas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 10</title>
+        <question>[img]http://img93.imageshack.us/img93/8633/chemltltfw8.gif[/img] pateikiama įprastinė 2-naftolių sintezės lygtis. Parašykite junginio pažymėto "?" pavadinimą. Apie nežinomą junginį yra žinoma tik tiek, kad tai natrio druska. (pavadinime tai turi atsispindėti)</question>
+        <answer>Natrio 2-naftalensulfonatas</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Uždaviniai 4</title>
+        <question>N2O3 tirpinant vandenyje gautas medžiagos A tirpalas, medžiagos A tirpalą paveikus tokiu pačiu tūriu geležies (II) sulfato tirpalo parūgštinto sieros rūgštimi išsiskyrė dujos B. Į likusį tirpalą supylus perteklių parūgštinto KI skyrėsi dujos B ir tam tikras kiekis tamsios medžiagos C (tarkime, kad ji visiškai netirpi). Medžiaga B reaguoja su karštu grafitu ir gaunas nedegių dujų mišinys, šį mišinį praleidus per sotųjį kalcio hidroksido tirpalą, nesureagavusios liko dujos D. Surašykite A, B, C ir D medžiagų formules jas atskirdami tik TARPAIS.</question>
+        <answer>HNO2 NO I2 N2</answer>
+        <points>4</points>
+    </question>
+    <question>
+        <title>Uždaviniai 5</title>
+        <question>Termiškai suskaldžius 5,54 gramus nežinomo metalo hidroksido gauta 4,82 gramai jo oksido. Parašykite oksido formulę.</question>
+        <answer>PoO2</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Organinė 13</title>
+        <question>Iki ko redukuojasi organiniai azidai, naudojant kaip reduktorių LiAlH4 ? (atsakymas 1 žodis, klasės pavadinimas dgs, K. l.)</question>
+        <answer>Aminų</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 12</title>
+        <question>[img]http://pic.chemlt.net/up/noname01.gif[/img] Koks šios reakcijos mechanizmas? Pvz.: AN</question>
+        <answer>SN2</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Junginiai 18</title>
+        <question>Žinoma, jog seleno rūgštis tirpina auksą. Prašykite reakcijos produktus, juos atskirdami tik tarpais (produktus išrikiuokite pagal molekulinę masę (mažėjančia tvarka)).</question>
+        <answer>Au2(SeO4)3 H2SeO3 H2O</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Stereochemija 1</title>
+        <question>[img]http://img209.imageshack.us/img209/2248/stereochemijadb2.gif[/img] Duoti penki junginiai. Išrašykite tų junginių skaičius (jie sužymėti skaičiais 1-5), kurie yra chiraliniai. Skaičius atskirkite tik tarpais ir vardinkite nuo mažiausio link didžiausio. pvz.: 1 2 5</question>
+        <answer>5</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Stereochemija 2</title>
+        <question>[img]http://img225.imageshack.us/img225/7743/stereochemija2pv7.gif[/img] Kurie iš pateiktų junginių yra chiraliniai? Junginio numeris pateiktas virš junginio. Vardinkite paeiliui (nuo mažesnio junginio numerio link didesnio) ir skaičius atskirkite tik tarpais. Pvz.: 1 2 3 4 5 6 7 8</question>
+        <answer>1 2 4 6 7</answer>
+        <points>6</points>
+    </question>
+    <question>
+        <title>Stereochemija 3</title>
+        <question>[img]http://img143.imageshack.us/img143/6804/stereochemija3ud0.gif[/img] Kuris iš pateiktų junginių (1-4) turi daugiausiai stereoizomerų? Kiek jų jis turi? Pirma nurodykite junginio numerį, po to stereoizomerų skaičių. Juos atskirkite TIK tarpu. Pvz.: 1 135</question>
+        <answer>3 4</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Stereochemija 4</title>
+        <question>Kiek diastereomerų turi 1,2,3,4,5,6-heksachlorcikloheksanas? Kiek iš jų yra chiraliniai? Pirma pateikite skaičių diastereomerų, tada (atskyrę TIK tarpu) skaičių chiralinių diastereomerų. Pvz.: 16 12 (t.y. 16 diastereomerų iš jų 12 yra chiraliniai)</question>
+        <answer>8 1</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Organinė 11</title>
+        <question>[img]http://img223.imageshack.us/img223/6216/sncq1.gif[/img] Pateikta 11 junginių. Išrašykite halidus, kurie 100 procentų nedalyvauja SN1 mechanizmo reakcijose. Išrašykite tik junginių numerius (kurie pateikti virš jų), numerius rašykite didėjimo tvarka, atskirdami TIK tarpu. Pvz.: 1 2 3 9 10 11</question>
+        <answer>3 4 10</answer>
+        <points>4</points>
+    </question>
+    <question>
+        <title>Organinė 14</title>
+        <question>[img]http://pic.chemlt.net/up/SN1.gif[/img] Kokia reakcijos produkto molekulinė masė ? (atsakyme naudokite tik skaičius.: pvz.: 214)</question>
+        <answer>130</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Pokštai 3</title>
+        <question>Junginys, kurio molekulinė masė 196, yra kažkuo panašus į simbolį neretai sutinkamą mūsų gyvenime (sako, kad minutės ilgumas priklauso nuo to, kurioje durų pusėje stovi :D). Taip pat jis siejasi ir su Pasaulio Centru (anglų kalba). Parašykite junginio formulę.</question>
+        <answer>WC</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 15</title>
+        <question>[img]http://pic.chemlt.net/up/reakcija.gif[/img] Kokia produkto X molekulinė masė? (nurodykite be vienetų, tik skaičiais, pvz.: 165)</question>
+        <answer>202</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Organinė 16</title>
+        <question>[img]http://pic.chemlt.net/up/SN1arSN2.gif[/img] Išrašykite reakcijų numerius, kurios vyksta pagal SN1 mechanizmą. Numerius rašykite nuo mažesnio link didesnio, juos atskirkite tik tarpais. Pvz.: 1 2 3</question>
+        <answer>2 3</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>8 klasė 1</title>
+        <question>[img]http://pic.chemlt.net/up/zenklas.jpg[/img] Apie ką praneša šis ženklas? (dgs, Vard. l.)</question>
+        <answer>Sprogios medžiagos</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 2</title>
+        <question>200 L spirito, kurio tankis 0,8 g/cm3. Apskaičiuokite jo masę gramais. Vienetų nurodyti nereikia atsakyme, tik skaičių.</question>
+        <answer>160000</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 3</title>
+        <question>Kaip vadinami mišiniai, kuriuos sudarančios dalelės matomos net plika akimi?</question>
+        <answer>Nevienalyčiai</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 4</title>
+        <question>Kokių dviejų metalų lydinys vadinamas žalvariu? Veskite juos pagal abėcėlę ir atskirkite tik tarpu (pvz.: Auksas geležis)</question>
+        <answer>Cinkas varis</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 5</title>
+        <question>Tirpiklis + ... = Tirpalas. Kas turėtų būti įrašyta daugtaškio vietoje, kad "lygybė" būtų teisinga?</question>
+        <answer>Tirpinys</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 6</title>
+        <question>Jei į 150 gramų 10% tam tikros medžiagos tirpalą įpilsime 50 ml (tankis 1,2 g/cm3) 20% tos pačios medžiagos tirpalo, tai kokia bus medžiagos koncentracija procentais naujajame tirpale (gauto po pirmųjų dviejų sumaišymo). Atsakymą, jei reikia, apvalinkite iki sveikųjų skaičių. Atsakymą pateikite tik skaičiais (pvz.: 33)</question>
+        <answer>13</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 7</title>
+        <question>Kiek gramų svers 8 moliai C[sub]2[/sub]H[sub]5[/sub]OH? Atsakyme įveskite tik skaičių.</question>
+        <answer>368</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 8</title>
+        <question>Jei turime 102,34 x 10[sup]23[/sup] vandens molekulių, kokia bus jų masė gramais? Atsakyme įveskite tik skaičių.</question>
+        <answer>306</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 9</title>
+        <question>Kiek gramų svers CH[sub]4[/sub] molekulės, jei jas sudaro 15,05 x 10[sup]23[/sup] atomų? Atsakyme įveskite tik skaičių. Apvalinkite iki sveikųjų skaičių.</question>
+        <answer>8</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 10</title>
+        <question>Turime 637 gramus H[sub]2[/sub]SO[sub]4[/sub], kiek joje yra molių deguonies? Apvalinkite iki sveikųjų skaičių, įveskite atsakyme tik skaičių.</question>
+        <answer>26</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 11</title>
+        <question>Junginys sudarytas iš: 29,41% kalcio, 0,735% vandenilio, 22,79% fosforo, o likusią dalį sudaro deguonis. Parašykite junginio formulę, atomus joje rašykite tokia pat tvarka kaip ir sąlygoje jie surašyti. Pvz.: CaH3P7O2</question>
+        <answer>CaHPO4</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 12</title>
+        <question>Kokia procentinė fosforo masės dalis junginyje Ca[sub]3[/sub](PO[sub]4[/sub])[sub]2[/sub]? Atsakyme įveskite tik skaičių, apvalinkite iki sveikųjų skaičių. Pvz.: 79</question>
+        <answer>20</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 13</title>
+        <question>Atsakymo laukelyje įveskite dviejų elementų simbolius. Pirma pačio elektroneigiamiausio elemento, antra elemento, kuris lengviausiai atiduoda elektronus. Juos atskirkite tik tarpu. Pvz.: P K</question>
+        <answer>F Fr</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 14</title>
+        <question>Išrikiuokite šiuos elementus elektroneigiamumo didėjimo tvarka: P B Br Si F Na C K Mg O Li Cl. Atsakyme juos atskirkite irgi TIK tarpais.</question>
+        <answer>K Na Li Mg Si B P C Br Cl O F</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 15</title>
+        <question>[img]http://pic.chemlt.net/up/junginys.gif[/img] Parašykite junginio formulę, kurio susidarymas pavaizduotas šioje schemoje. Atskyrę TIK tarpu parašykite, koks ryšys būdingas šiam junginiui. Pvz.: CO2 kovalentinis polinis</question>
+        <answer>Li3N joninis</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 16</title>
+        <question>Aliuminio milteliai, kurių tūris yra 2 cm[sup]3[/sup], o tankis 2,7 g/cm[sup]3[/sup] sumaišyti su sieros milteliais. Pakaitintas mišinys sureagavo (reakcijos metu aliuminis sureagavo visiškai). Kiek gramų susidarė aliuminio sulfido? Atsakymą apvalinkite iki sveikųjų skaičių ir pateikite atsakyme tik skaičių (be vienetų).</question>
+        <answer>15</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 17</title>
+        <question>Suskaidžius 54 ml vandens (tankis 1g/cm[sup][/sup]), gautas tam tikras kiekis deguonies. Neišlyginta vandens skilimo reakcija: H[sub]2[/sub]O -&gt; H[sub]2[/sub] + O[sub]2[/sub] (išlyginkite patys prieš spręsdami). Visas gautas deguonis (jį gavome pirmojoje dalyje skaidant vandenį pagal duotą reakciją jums) buvo panaudotas reakcijoje su aliuminiu, neišlyginta reakcija: Al + O[sub]2[/sub] -&gt; Al[sub]2[/sub]O[sub]3[/sub] (išlyginkite patys prieš spręsdami). Kiek gramų galiausiai susidarė aliuminio oksido? Atsakymą suapvalinkite iki sveikųjų skaičių, atsakyme pateikite tik skaičių be vienetų.</question>
+        <answer>102</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 18</title>
+        <question>PbO + H[sub]2[/sub] -&gt; Pb + H[sub]2[/sub]O (jei reikia išsilyginkite reakciją). Kiek gramų reikia paimti PbO, jei norime šios pavadavimo reakcijos metu gauti 186,3 gramus švino? Atsakymą pateikite be vienetų, tik skaičių (apvalinkite iki sveikųjų skaičių).</question>
+        <answer>201</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 19</title>
+        <question>Gėrimui paruošti reikėjo 5 kg 15% cukraus tirpalo. Po to papildomai į šį tirpalą įbėrė dar 250g cukraus. Kokia dabar cukraus procentinė masės dalis tirpale? Atsakyme pateikite tik skaičių, apvalinkite iki sveikųjų skaičių.</question>
+        <answer>19</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 20</title>
+        <question>Išrašykite junginius, kuriuose ryšys nėra kovalentinis polinis (išrašykite iš eilės, atskirdami tik tarpais): HCl H[sub]2[/sub]O NaCl HBr CH[sub]4[/sub] H[sub]2[/sub] NH[sub]3[/sub] Na[sub]2[/sub]O CO SO[sub]2[/sub]</question>
+        <answer>NaCl H2 Na2O</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 1</title>
+        <question>[img]http://pic.chemlt.net/up/dalele.gif[/img] Kokia dalelė pavaizduota paveiksle? Jei reikia krūvį nurodykite iškart po elemento simbolio, pirma nurodę krūvio ženklą, po to dydį. Pvz.: O-2</question>
+        <answer>Cl+</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 2</title>
+        <question>[img]http://pic.chemlt.net/up/dalele2.gif[/img] Parašykite kokia dalelė pavaizduota piešinyje. Jei reikia krūvį nurodykite iškart po simbolio (pirma krūvio ženklą, po to dydį). Pvz.: O-2</question>
+        <answer>Si+4</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 3</title>
+        <question>Dalelės branduolį sudaro 3 protonai ir 4 neutronai. Elektronų apvalkalą sudaro 1 elektronas. Nurodykite, kokia tai dalelė. Jei reikia krūvį nurodykite iškart po elemento simbolio (pirma krūvio ženklą, tada dydį). Pvz.: O-2</question>
+        <answer>Li+2</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 4</title>
+        <question>Kokia tarpmolekulinė sąveika atsiranda tarp tokių molekulių kaip šios: NH[sub]3[/sub], H[sub]2[/sub]O, HF? (atsakymas 2 žodžiai, vns, vard. l.)</question>
+        <answer>Vandenilinis ryšys</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 5</title>
+        <question>S + O[sub]2[/sub] -&gt; ......................; C + O[sub]2[/sub] (trūkumas) -&gt;...................; smalkės + O[sub]2[/sub] -&gt; .......... Kokie produktai susidaro kiekvienos šių reakcijų metu? Atsakyme pateikite junginių chemines formules, juos rašykite tokia pat tvarka, kaip pateiktos reakcijų lygtys, junginius atskirkite tik tarpais. Pvz.: NaCl NO MgS</question>
+        <answer>SO2 CO CO2</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 6</title>
+        <question>Metalo oksidą redukavus tam tikra medžiaga, kaip vienas produktų buvo gautas CO[sub]2[/sub]. Kokios dvi medžiagos galėjo būti naudotos reakcijoje redukuoti metalo oksidui? Atsakyme rašykite jų formules, atskirkite tik tarpu.</question>
+        <answer>C CO</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 7</title>
+        <question>Parašykite išlygintą aukso (III) oksido skilimo lygtį. ATSAKYMO ĮVEDIMO PRINCIPAI: Tarpų nenaudokite, reakcijos rodyklei naudokite šį simbolių derinį: -&gt; (brūkšnys ir varnelė į dešinę). Reagentus, produktus rašykite molekulinės masės mažėjimo tvarka. Pvz.: 2Ag2O-&gt;4Ag+O2</question>
+        <answer>2Au2O3-&gt;4Au+3O2</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 8</title>
+        <question>Fe[sub]2[/sub]O[sub]3[/sub] + 2 Al -&gt; Al[sub]2[/sub]O[sub]3[/sub] + 2 Fe. Kas šioje reakcijoje yra reduktorius? (formulė)</question>
+        <answer>Al</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 9</title>
+        <question>10,8 g aliuminio reagavo su 12,8 gramais sieros. Kiek gramų ir kurios reaguojančios medžiagos liko nesureagavusios? ATSAKYMO ĮVEDIMO PRINCIPAI: Pirma įveskite kas liko nesureagavęs (Al ar S), po to atskyrę tik tarpu įveskite kiek tos medžiagos liko gramais (tik skaičių, vienetų nenurodykite). Apvalinkite iki dešimtųjų dalių, kaip "kablelį" naudokite įprastą skyrybos kablelį jūsų klaviatūroje.</question>
+        <answer>Al 3,6</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 10</title>
+        <question>Fosforui reaguojant su chloru susidaro tik fosforo (V) chloridas. Kiek gramų chloro sureagavo, jei susidarė 834 gramai šio chlorido. Atsakyme pateikite tik skaičių be vienetų. Apvalinkite iki sveikųjų skaičių.</question>
+        <answer>710</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 11</title>
+        <question>Prie 20[sup]o[/sup] C temperatūros medžiagos tirpumas yra 60 g/ 100g H[sub]2[/sub]O. Rasti sotaus tirpalo procentinę koncentraciją šioje temperatūroje. Atsakyme pateikite tik skaičių, apvalinkite iki dešimtųjų.</question>
+        <answer>37,5</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Uždaviniai 6 (nestandartinis)</title>
+        <question>Termiškai suskaidžius 30 gramų nežinomos druskos, susidaro 18,1 g kietos liekanos. Atšaldžius dujinius produktus, susikondensavo H[sub]2[/sub]O. Išanalizavus liekaną, nustatyta, jog metalo M oksido sudėtyje yra 31,6% deguonies. Parašykite nežinomos druskos formulę.</question>
+        <answer>(NH4)2Cr2O7</answer>
+        <points>4</points>
+    </question>
+    <question>
+        <title>Uždaviniai 7</title>
+        <question>Vieno iš X elemento izotopų masės skaičius 110. Nežinomas izotopas sudaro jonus X+2. Šių jonų sudėtyje esantis elektronų skaičius sudaro 80% neutronų skaičiaus. Parašykite šio elemento simbolį.</question>
+        <answer>Sn</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Organinė 17</title>
+        <question>Mišinys, sudarytas iš dviejų alkoholių, praleistas virš įkaitinto CuO. Visiškai įvykus reakcijai, dujiniai produktai ištirpinti amoniakiniame sidabro oksido tirpale. Po reakcijos cilindro formos cheminės stiklinės, kurios tūris 300 cm[sup]3[/sup], o vidinis skersmuo 0,6 dm, visą paviršių padengė vienoda 13,5 mikrometrų sidabro plėvelė. Sidabro tankis 10,5 g/cm[sup]3[/sup]. Apie alkoholius žinoma: tai pirminiai alkoholiai, jų bendra mišinio masė 0,53g, o mišinyje yra po 0,005 mol kiekvieno junginio. Parašykite, kokia procentinė masės dalis alkoholio, kurio didesnė molekulinė masė, pradiniame mišinyje. apvalinkite iki dešimtųjų. Atsakyme įveskite tik skaičių, be procentų % ženklo.</question>
+        <answer>69,8</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Pokštai 4</title>
+        <question>Šifras. Išsiaiškinkite žemiau pateiktą šifrą ir parašykite atsakymą. 1. a) Fe + Be + Cu + N .Atrask geografiją!!! b) Gauname elementą ir keičiame jo balsę į balsę. 2. a) Ru + He + Li . Atskiriame RIP bet paskutinė raidė - meluoja!! Ir atimame vieną elektroną. b) Gautas elementas + nežymus jodas. 3. Elementas � kaip pusė medelio. 4. Elementas gaunamas iš kiaušinio. Sėkmės !!</question>
+        <answer>Paulius</answer>
+        <points>5</points>
+    </question>
+    <question>
+        <title>Teorija 5</title>
+        <question>Šilumos kiekis, išsiskiriantis ar suvartojamas susidarant iš elementų junginiui.</question>
+        <answer>Entalpija</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Elementai 7</title>
+        <question>Kuris elementas Žemės atmosferoje trečias pagal dažnumą?</question>
+        <answer>Argonas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 18</title>
+        <question>Parašykite pavadinimą pagal IUPAC nomenklatūrą etanolio ir stearino rūgšties esterio.</question>
+        <answer>Etiloktadekanoatas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Teorija 6</title>
+        <question>Kokia skalė naudojama mineralų kietumui nustatyti?</question>
+        <answer>Moso</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Elementai 8</title>
+        <question>Kuris iš cheminių elementų buvo pradžioje rastas Saulėje, o po to Žemėje?</question>
+        <answer>Helis</answer>
+        <points>2</points>
+    </question>
+    <question>
+        <title>Elementai 9</title>
+        <question>Kuris cheminis elementas turi senovės graikų mitų vardą?</question>
+        <answer>Tantalas</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Elementai 10</title>
+        <question>Elementas gali būti tvirtas kaip deimantas, minkštas kaip suodžiai.</question>
+        <answer>Anglis</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Elementai 11</title>
+        <question>Kokia kristalinio jodo spalva?</question>
+        <answer>Pilka</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Elementai 12</title>
+        <question>Koks elementas turi tokį patį pavadinimą kaip planetos?</question>
+        <answer>Uranas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Elementai 13</title>
+        <question>Koks cheminis elementas kvepia česnaku?</question>
+        <answer>Baltasis fosforas</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Elementai 14</title>
+        <question>Kaip alavą paversti į miltelius, nepanaudojant jokio instrumento? Atsakymas iš dviejų žodžių: veiksmažodis ir daiktavardis</question>
+        <answer>Palaikyti šaltyje</answer>
+        <points>3</points>
+    </question>
+    <question>
+        <title>Elementai 15</title>
+        <question>Koks elementas esti kelių agregatinių būsenų?</question>
+        <answer>Bromas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 12</title>
+        <question>Koks indikatroius nusidažo avietine spalva bazinėje terpėje?</question>
+        <answer>Fenoftaleinas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 13</title>
+        <question>Koks reagentas naudojamas atpažinti CO2 dujas? (formulė)</question>
+        <answer>Ca(OH)2</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 14</title>
+        <question>Kiek Vario (II) sulfate pentahidrate yra procentų vandens? (atsakyme tik skaičius)</question>
+        <answer>36</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Junginiai 19</title>
+        <question>Parašykite, koks junginys susidarys suregavus šioms medžiagoms: Al NaOH ir H2O. (junginio pavadinimas)</question>
+        <answer>Natrio tetrahidroksoaliuminatas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Junginiai 20</title>
+        <question>Koks lydinio pavadinimas, jei jo procentinė sudėtis yra Al+1-13% Mg?</question>
+        <answer>Magnalis</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>Organinė 19</title>
+        <question>Junginys, susidarantis mūsų organizme iš alkoholio. (pavadinimas)</question>
+        <answer>Etanalis</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 21</title>
+        <question>Kokia vario masės dalis yra minerale chalkopirite CuFeS2 ? (tik skaičius, atsakymą suapvalinkite iki sveikojo skaičiaus)</question>
+        <answer>35</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>8 klasė 22</title>
+        <question>Junginio procentinė sudėtis yra tokia: Pb - 68,3%, S - 10,6%, O - 21,1%, Kokia junginio formulė?</question>
+        <answer>PbSO4</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>9 klasė 19</title>
+        <question>Parašykite junginio simbolį, kuris susideda iš 38 protonų, 50 neutronų ir 36 elektronų.</question>
+        <answer>Sn2+</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>10 klasė 1</title>
+        <question>Iš 56m3 (n. s.) sieros(IV) oksido gaunama 170kg sieros (VI) oksido. Apskaičiuokite gamybos išeigą. Atsakyme rašykite tik skaičių</question>
+        <answer>85</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>10 klasė 2</title>
+        <question>Kokia yra 54 l metano masė (n. s.)? Atsakymą suapvalinkite iki dešimčių.</question>
+        <answer>38,6</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>10 klasė 3</title>
+        <question>Kokį tūrį (n. s.) užims 16 g deguonies dujų? Atsakyme rašykinte tik skaičių.</question>
+        <answer>11,2</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>10 klasė 4</title>
+        <question>Kaip vadinasi vandenilio ir deguonies dujų mišinys, tūrių santykiu 2:1?Atsakymą rašykite iš didžiosios raidės.</question>
+        <answer>Perkūno dujos</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>10 klasė 5</title>
+        <question>Parašykite junginio pavadinimą, kuris aptinkamas jonvabaliuose.</question>
+        <answer>Fosfanas</answer>
+        <points>1</points>
+    </question>
+    <question>
+        <title>10 klasė 6</title>
+        <question>Padeginus žmogaus plauką, jaučiamas nemalonus kvapas. Koks elementas esantis plaukuose sukelia šį kvapą?</question>
+        <answer>Siera</answer>
+        <points>1</points>
+    </question>
+</collection>
