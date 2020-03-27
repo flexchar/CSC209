@@ -5,7 +5,7 @@
     "license": "MIT",
     "scripts": {
         "serve": "parcel src/*.html src/xml/*",
-        "build": "parcel build src/*.html"
+        "build": "rm -rf dist/ && parcel build src/*.html src/xml/*"
     },
     "browserslist": [
         "last 1 Chrome version"
